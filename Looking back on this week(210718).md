@@ -1,4 +1,4 @@
-# Looking back on this week(210718) - 記述中  
+# Looking back on this week(210718)
 今週もGuthubのテスト込みで、今週あったことを記載しておきます。  
 （使わないと使い方を忘れてしまいそうで...）
 
